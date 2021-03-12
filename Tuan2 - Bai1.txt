@@ -1,0 +1,9 @@
+Bài 1:
+1.
+Bỏ dấu  “ ; “ sau while
+2.
+Chuyển dấu phẩy ỏ for thành dấu chấm phẩy
+3.
+Them dấu {} vào vòng lặp do – while
+4.
+Đổi i- - thành i++
